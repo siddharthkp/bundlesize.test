@@ -1,7 +1,7 @@
 {
   "name": "bundlesize.test",
   "scripts": {
-    "test": "bundlesize --debug"
+    "test": "bundlesize-start && sleep 10 && bundlesize --debug"
   },
   "dependencies": {
     "bundlesize": "github:siddharthkp/bundlesize"
