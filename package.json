@@ -8,7 +8,7 @@
   },
   "bundlesize": [
     {
-      "path": "./index.js",
+      "path": "./package.json",
       "maxSize": "600B"
     }
   ]
