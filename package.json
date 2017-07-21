@@ -9,7 +9,7 @@
   "bundlesize": [
     {
       "path": "./package.json",
-      "maxSize": "20B"
+      "maxSize": "600B"
     }
   ]
 }
