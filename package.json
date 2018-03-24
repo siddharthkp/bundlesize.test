@@ -4,7 +4,7 @@
     "test": "bundlesize --debug"
   },
   "dependencies": {
-    "bundlesize": "0.17.0"
+    "bundlesize": "0.16.0"
   },
   "bundlesize": [
     {
@@ -14,6 +14,14 @@
     {
       "path": "./grando.txt",
       "maxSize": "400B"
+    },
+    {
+      "path": "./package.json",
+      "maxSize": "900B"
+    },
+    {
+      "path": "./.travis.yml",
+      "maxSize": "900B"
     }
   ]
 }
