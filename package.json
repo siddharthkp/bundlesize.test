@@ -4,12 +4,16 @@
     "test": "bundlesize --debug"
   },
   "dependencies": {
-    "bundlesize": "0.9.2"
+    "bundlesize": "0.17.0:"
   },
   "bundlesize": [
     {
       "path": "./package.json",
       "maxSize": "600B"
+    },
+    {
+      "path": "rando.txt",
+      "maxSize": "10B:"
     }
   ]
 }
