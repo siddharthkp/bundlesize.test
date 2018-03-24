@@ -4,7 +4,7 @@
     "test": "bundlesize --debug"
   },
   "dependencies": {
-    "bundlesize": "0.17.0"
+    "bundlesize": "0.16.0"
   },
   "bundlesize": [
     {
