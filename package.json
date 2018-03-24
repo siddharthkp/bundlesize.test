@@ -8,12 +8,12 @@
   },
   "bundlesize": [
     {
-      "path": "./package.json",
-      "maxSize": "600B"
+      "path": "rando.txt",
+      "maxSize": "50B"
     },
     {
-      "path": "rando.txt",
-      "maxSize": "10B:"
+      "path": "./grando.txt",
+      "maxSize": "400B"
     }
   ]
 }
